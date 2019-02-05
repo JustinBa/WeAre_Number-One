@@ -20,6 +20,7 @@ int William(void){
 	printf("Major: Computer Science");
 	printf("I typically play video games, attempt to compose music, write occasional software.");
 	printf("I grew up in California");
+	printf("I like dragons and dinos");
 }
 int Jacob(void){
 

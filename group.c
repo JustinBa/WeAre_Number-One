@@ -26,7 +26,12 @@ int Justin(void){
 	printf("Ive sold about $25,000 in popcorn\n");
 }
 int William(void){
-
+	printf("Name: William Behunin");
+	printf("Year in school: Junior?");
+	printf("Major: Computer Science");
+	printf("I typically play video games, attempt to compose music, write occasional software.");
+	printf("I grew up in California");
+	printf("I like dragons and dinos");
 }
 int Jacob(void){
 

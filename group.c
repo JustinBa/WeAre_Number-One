@@ -16,6 +16,7 @@ int Justin(void){
 }
 int William(void){
 	printf("Name: William Behunin");
+	printf("Year in school: Junior?");
 }
 int Jacob(void){
 

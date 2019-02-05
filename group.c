@@ -8,6 +8,8 @@ int main(void){
 int Jack(void){
 printf("Jack Abernathy\n");
 printf("Year: \"Junior\" at University of Montana\n");
+printf("Major: Double major in Computer Science and Math\n");
+
 }
 int Adrian(void){
 

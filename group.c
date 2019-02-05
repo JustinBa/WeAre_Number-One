@@ -18,12 +18,12 @@ int Adrian(void){
 
 }
 int Justin(void){
-	printf("Justin Bancale");
-	printf("Freshman");
-	printf("Computer Science");
-	printf("Computers, Soldering, Tech, Anime, Manga");
-	printf("Missoula Montana");
-	printf("Ive sold about $25,000 in popcorn");
+	printf("Justin Bancale\n");
+	printf("Freshman\n");
+	printf("Computer Science\n");
+	printf("Computers, Soldering, Tech, Anime, Manga\n");
+	printf("Missoula Montana\n");
+	printf("Ive sold about $25,000 in popcorn\n");
 }
 int William(void){
 

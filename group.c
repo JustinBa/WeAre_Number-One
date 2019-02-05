@@ -19,4 +19,5 @@ int William(void){
 }
 int Jacob(void){
 	printf("Jacob Bexten\n");
+	printf("Junior\n");
 }

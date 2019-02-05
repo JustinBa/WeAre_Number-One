@@ -12,6 +12,8 @@ int Adrian(void){
     printf("Adrian Ashwah\n");
     printf("2nd year in school\n");
     printf("Majoring in CS and IT\n");
+    printf("Playing the Mandolin, Soccer, and Hiking\n");
+    printf("Grew up in Siberia, Russia.\n")
 
 }
 int Justin(void){

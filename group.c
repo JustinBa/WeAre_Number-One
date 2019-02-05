@@ -19,6 +19,7 @@ int William(void){
 	printf("Year in school: Junior?");
 	printf("Major: Computer Science");
 	printf("I typically play video games, attempt to compose music, write occasional software.");
+	printf("I grew up in California");
 }
 int Jacob(void){
 

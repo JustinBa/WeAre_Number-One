@@ -6,7 +6,8 @@ int main(void){
 	Jacob();
 }
 int Jack(void){
-
+printf("Jack Abernathy\n");
+printf("Year: \"Junior\" at University of Montana\n");
 }
 int Adrian(void){
 

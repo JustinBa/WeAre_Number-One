@@ -21,4 +21,7 @@ int Jacob(void){
 	printf("Jacob Bexten\n");
 	printf("Junior\n");
 	printf("Computer Science\n");
+	printf("skiing, flyfishing, music production\n");
+	printf("Kalispell, MT\n");
+	printf("hahaha nothing\n");
 }
